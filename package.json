@@ -1,6 +1,6 @@
 {
   "name": "electron-quickstart",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Boilerplate for a simple Electron app",
   "main": "main.js",
   "scripts": {
