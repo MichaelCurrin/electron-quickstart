@@ -1,0 +1,29 @@
+{
+  "name": "electron-quickstart",
+  "version": "0.0.0",
+  "description": "Boilerplate for a simple Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelCurrin/electron-quickstart.git"
+  },
+  "keywords": [
+    "electron",
+    "quickstart",
+    "boilerplate",
+    "beginner"
+  ],
+  "author": "MichaelCurrin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelCurrin/electron-quickstart/issues"
+  },
+  "homepage": "https://github.com/MichaelCurrin/electron-quickstart#readme",
+  "devDependencies": {
+    "electron": "^9.2.1"
+  }
+}
