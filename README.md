@@ -1,19 +1,31 @@
 # Electron Quickstart
 > Boilerplate for a simple Electron app
 
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/electron-quickstart)](https://github.com/MichaelCurrin/electron-quickstart/tags/?include_prereleases&sort=semver)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/electron-quickstart/generate)
+
 Electron is a JavaScript framework which lets you write desktop applications.
 
 
 ## Preview
 
-![sample screenshot](/sample.png)
+<div align=center>
+    <img src=sample.png alt="sample screenshot" title="sample screenshot" height="400" />
+</div>
 
 
 ## Resources
 
-- https://www.electronjs.org/
+- Electron homepage 
+    - https://www.electronjs.org/
     >  Build cross-platform desktop apps with JavaScript, HTML, and CSS 
-- https://www.electronjs.org/docs
+- Electron apps
+    - https://www.electronjs.org/apps
+    - Marketplace of free Electron-based apps, including download links and links to their GitHub source code
+- Electron docs 
+    - https://www.electronjs.org/docs
     - Docs for developers making Electron apps.
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) repo - see the code and also the resources in the README file.
 
