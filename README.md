@@ -1,4 +1,4 @@
-# Electron Quickstart
+# Electron.js Quickstart
 > Boilerplate for a simple Electron app
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/electron-quickstart)](https://github.com/MichaelCurrin/electron-quickstart/tags/?include_prereleases&sort=semver)
@@ -12,7 +12,7 @@ Electron is a JavaScript framework which lets you write desktop applications.
 ## Preview
 
 <div align=center>
-    <img src="sample.png" alt="sample screenshot" title="sample screenshot" height="400" />
+    <img src="sample.png" alt="sample screenshot" title="sample screenshot" width="400" />
 </div>
 
 
