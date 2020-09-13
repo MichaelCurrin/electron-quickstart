@@ -4,9 +4,14 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/electron-quickstart)](https://github.com/MichaelCurrin/electron-quickstart/tags/?include_prereleases&sort=semver)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+
+<div align="center">
+
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/electron-quickstart/generate)
 
-Electron is a JavaScript framework which lets you write desktop applications.
+</div>
+
+Electron is a JavaScript framework which lets you write desktop applications. Such as Facebook Messenger, Slack and Visual Studio Code. This project is a template to help you learn the basics and get a Hello World project running with minimal effort.
 
 
 ## Preview
@@ -20,7 +25,7 @@ Electron is a JavaScript framework which lets you write desktop applications.
 
 - Electron homepage 
     - https://www.electronjs.org/
-    >  Build cross-platform desktop apps with JavaScript, HTML, and CSS 
+    >  Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - Electron apps
     - https://www.electronjs.org/apps
     - Marketplace of free Electron-based apps, including download links and links to their GitHub source code
