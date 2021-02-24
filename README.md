@@ -73,7 +73,7 @@ $ npm start
 
 ## Installation
 
-Install Node.js.
+Install Node.js - see [instructions](https://gist.github.com/aa1fc56419a355972b96bce23f3bccba).
 
 Clone the repo.
 
@@ -89,3 +89,8 @@ $ npm install
 ```sh
 $ npm start
 ```
+
+
+## License
+
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
