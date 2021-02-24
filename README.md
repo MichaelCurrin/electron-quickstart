@@ -1,23 +1,26 @@
 # Electron.js Quickstart
 > Boilerplate for a simple Electron app
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/electron-quickstart)](https://github.com/MichaelCurrin/electron-quickstart/tags/?include_prereleases&sort=semver)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
-
-
-<div align="center">
-
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/electron-quickstart/generate)
-
-</div>
-
-Electron is a JavaScript framework which lets you write desktop applications. Such as Facebook Messenger, Slack and Visual Studio Code. This project is a template to help you learn the basics and get a Hello World project running with minimal effort.
+[![Known Vulnerabilities](https://snyk.io/test/github/MichaelCurrin/electron-quickstart/badge.svg?targetFile=package.json)](https://snyk.io/test/github/MichaelCurrin/electron-quickstart?targetFile=package.json)
+![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/electron-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/electron-quickstart/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
 ## Preview
 
 <div align=center>
     <img src="sample.png" alt="sample screenshot" title="sample screenshot" width="400" />
+</div>
+
+
+## About
+
+Electron is a JavaScript framework which lets you write desktop applications. Such as Facebook Messenger, Slack and Visual Studio Code. This project is a template to help you learn the basics and get a Hello World project running with minimal effort.
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/electron-quickstart/generate)
+
 </div>
 
 
