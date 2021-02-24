@@ -2,7 +2,7 @@
 > Boilerplate for a simple Electron app
 
 [![Known Vulnerabilities](https://snyk.io/test/github/MichaelCurrin/electron-quickstart/badge.svg?targetFile=package.json)](https://snyk.io/test/github/MichaelCurrin/electron-quickstart?targetFile=package.json)
-![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/electron-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/electron-quickstart/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/electron-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/electron-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
