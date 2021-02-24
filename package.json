@@ -7,6 +7,11 @@
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "devDependencies": {
+    "electron": "^9.2.1"
+  }
+  "author": "MichaelCurrin",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MichaelCurrin/electron-quickstart.git"
@@ -17,13 +22,8 @@
     "boilerplate",
     "beginner"
   ],
-  "author": "MichaelCurrin",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MichaelCurrin/electron-quickstart/issues"
   },
-  "homepage": "https://github.com/MichaelCurrin/electron-quickstart#readme",
-  "devDependencies": {
-    "electron": "^9.2.1"
-  }
+  "homepage": "https://github.com/MichaelCurrin/electron-quickstart#readme"
 }
