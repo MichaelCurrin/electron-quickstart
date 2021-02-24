@@ -5,6 +5,9 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/electron-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/electron-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+[![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org "Node.js homepage")
+[![Package - electron](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/electron-quickstart/dev/electron?logo=electron&logoColor=white)](https://www.npmjs.com/package/electron)
+
 
 ## Preview
 
