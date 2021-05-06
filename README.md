@@ -29,16 +29,7 @@ Electron is a JavaScript framework which lets you write desktop applications. Su
 
 ## Resources
 
-- Electron homepage 
-    - https://www.electronjs.org/
-    >  Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- Electron apps
-    - https://www.electronjs.org/apps
-    - Marketplace of free Electron-based apps, including download links and links to their GitHub source code
-- Electron docs 
-    - https://www.electronjs.org/docs
-    - Docs for developers making Electron apps.
-- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) repo - see the code and also the resources in the README file.
+See [Electron](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/electron/) in Dev Resources site.
 
 
 ## Create your own app from scratch
